@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.mycoms.tumiza.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.mycoms.tumiza.\
+    config.TestContainersSpringContextCustomizerFactory
